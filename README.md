@@ -21,7 +21,7 @@ I document all my projects with video walkthroughs on YouTube — because unders
 
 | Project | What It Is | Tech |
 |---|---|---|
-| [Cloud Migration Strategies](https://github.com/Divyang-Lodariya/Cloud-Migration_CST8913) | Enterprise migration planning — RBC case study, IaaS vs PaaS deployment, multi-cloud comparison | Azure · AWS · GCP |
+| [Cloud Migration Strategies](https://github.com/Divyang-Lodariya/Cloud-Migration-Azure) | Enterprise migration planning — RBC case study, IaaS vs PaaS deployment, multi-cloud comparison | Azure · AWS · GCP |
 | [Serverless RESTful API](https://github.com/Divyang-Lodariya/Serverless-API-Azure) | Zero-secret API with Managed Identity, Key Vault, Cosmos DB | Azure Functions · Node.js · Cosmos DB |
 | [Azure Private Network Security](https://github.com/Divyang-Lodariya/Azure-Private-Network-Security) | Fully private architecture — Private Endpoint, Bastion, no public exposure | Azure Private Link · VNet · Bastion |
 | [Pet Store Microservices](https://github.com/Divyang-Lodariya/Petstore-Containerized-Microservices) | 7-service containerized app on Azure VM | Docker · Vue.js · Node.js · RabbitMQ |
