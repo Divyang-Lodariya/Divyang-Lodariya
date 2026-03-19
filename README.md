@@ -37,7 +37,7 @@ I walk through every project on YouTube with audio explanation:
 
 ## 📫 Connect
 
-[LinkedIn](www.linkedin.com/in/
+[LinkedIn] · (www.linkedin.com/in/
 divyang-lodariya-b88129227
 Vanity URL name
 ) · [YouTube](https://youtube.com/@divyanglodariya) · divyanglodariya99@gmail.com
